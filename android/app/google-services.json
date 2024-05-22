@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "306422242624",
+    "project_id": "traffic-6eb39",
+    "storage_bucket": "traffic-6eb39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306422242624:android:23267bc75913110f91eea5",
+        "android_client_info": {
+          "package_name": "com.example.traffic_huck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgUiEmvAvLewOuuxLUbbST5Z5alhjKQQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
